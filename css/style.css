@@ -1,0 +1,14 @@
+@media (min-width: 600px) {
+    display: grid;
+    template-grid-areas: "header header header" "nav nav nav" "main main main" "footer footer footer";
+
+   
+    header {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        
+        
+
+    }
+}
